@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878212778934324021/64c51ebca9d8469e8eaaddf396efa4fb/artifacts
+end_time: 1770188590673
+entry_point_name: ''
+experiment_id: '878212778934324021'
+lifecycle_stage: active
+run_id: 64c51ebca9d8469e8eaaddf396efa4fb
+run_name: amusing-donkey-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770188588973
+status: 3
+tags: []
+user_id: Rinesh

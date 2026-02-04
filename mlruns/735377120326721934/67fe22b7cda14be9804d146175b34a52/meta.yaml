@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/67fe22b7cda14be9804d146175b34a52/artifacts
+end_time: 1770192596823
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: 67fe22b7cda14be9804d146175b34a52
+run_name: bedecked-lamb-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192596570
+status: 3
+tags: []
+user_id: Rinesh

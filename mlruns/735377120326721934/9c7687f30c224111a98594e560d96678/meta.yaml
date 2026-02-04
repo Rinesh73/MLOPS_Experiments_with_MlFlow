@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/9c7687f30c224111a98594e560d96678/artifacts
+end_time: 1770192597080
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: 9c7687f30c224111a98594e560d96678
+run_name: bald-sheep-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192596840
+status: 3
+tags: []
+user_id: Rinesh

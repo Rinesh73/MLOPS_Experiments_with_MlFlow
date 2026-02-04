@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/7f0548e933f1490badcf94428dd63cd3/artifacts
+end_time: 1770192596300
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: 7f0548e933f1490badcf94428dd63cd3
+run_name: blushing-wren-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192596051
+status: 3
+tags: []
+user_id: Rinesh

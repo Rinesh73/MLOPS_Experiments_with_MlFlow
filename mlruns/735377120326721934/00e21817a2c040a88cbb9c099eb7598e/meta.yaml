@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/00e21817a2c040a88cbb9c099eb7598e/artifacts
+end_time: 1770192596548
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: 00e21817a2c040a88cbb9c099eb7598e
+run_name: blushing-toad-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192596310
+status: 3
+tags: []
+user_id: Rinesh

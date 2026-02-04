@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/2e255a01a87a45a28cf92bb570f7211f/artifacts
+end_time: 1770192597349
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: 2e255a01a87a45a28cf92bb570f7211f
+run_name: thoughtful-rat-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192597106
+status: 3
+tags: []
+user_id: Rinesh

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878212778934324021/105704b269c74760914479894cdb75a2/artifacts
+end_time: 1770191783450
+entry_point_name: ''
+experiment_id: '878212778934324021'
+lifecycle_stage: active
+run_id: 105704b269c74760914479894cdb75a2
+run_name: gregarious-trout-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770191782492
+status: 3
+tags: []
+user_id: Rinesh

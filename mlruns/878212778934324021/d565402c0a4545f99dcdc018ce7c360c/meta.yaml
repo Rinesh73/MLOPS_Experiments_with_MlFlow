@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878212778934324021/d565402c0a4545f99dcdc018ce7c360c/artifacts
+end_time: 1770189141277
+entry_point_name: ''
+experiment_id: '878212778934324021'
+lifecycle_stage: active
+run_id: d565402c0a4545f99dcdc018ce7c360c
+run_name: nosy-hawk-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770189111510
+status: 3
+tags: []
+user_id: Rinesh

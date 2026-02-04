@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d63daa4e5f5b42c7b58b849f9b1784cc/artifacts
+end_time: 1770187858707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d63daa4e5f5b42c7b58b849f9b1784cc
+run_name: burly-moose-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770187856920
+status: 3
+tags: []
+user_id: Rinesh

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/a89a8945e2114d93ada09e9063832d8e/artifacts
+end_time: 1770192597602
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: a89a8945e2114d93ada09e9063832d8e
+run_name: angry-mare-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192597370
+status: 3
+tags: []
+user_id: Rinesh

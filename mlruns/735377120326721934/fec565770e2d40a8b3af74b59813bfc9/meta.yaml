@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/fec565770e2d40a8b3af74b59813bfc9/artifacts
+end_time: 1770192598190
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: fec565770e2d40a8b3af74b59813bfc9
+run_name: adaptable-skink-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192597904
+status: 3
+tags: []
+user_id: Rinesh

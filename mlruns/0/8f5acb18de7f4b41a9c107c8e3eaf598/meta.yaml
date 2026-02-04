@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f5acb18de7f4b41a9c107c8e3eaf598/artifacts
+end_time: 1770186281603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f5acb18de7f4b41a9c107c8e3eaf598
+run_name: useful-skink-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770186281195
+status: 3
+tags: []
+user_id: Rinesh

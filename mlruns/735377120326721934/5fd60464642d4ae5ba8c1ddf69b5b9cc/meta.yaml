@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Rinesh/Documents/MLOPS_Experiments_with_MlFlow/mlruns/735377120326721934/5fd60464642d4ae5ba8c1ddf69b5b9cc/artifacts
+end_time: 1770192613336
+entry_point_name: ''
+experiment_id: '735377120326721934'
+lifecycle_stage: active
+run_id: 5fd60464642d4ae5ba8c1ddf69b5b9cc
+run_name: shivering-sheep-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770192579774
+status: 3
+tags: []
+user_id: Rinesh
